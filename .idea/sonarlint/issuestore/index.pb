@@ -12,3 +12,5 @@ G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b/4/b4
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+=
+file-test.txt,0/9/098a81478dc5745b2163bb493e25fe36a7ba27dd
