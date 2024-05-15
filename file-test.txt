@@ -1,4 +1,4 @@
 Prueba test
 Test1
-Test2 test test test clonflict
+Test2 test test test no pude hacer que marque conflicto :(
 Test3
