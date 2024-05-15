@@ -1,0 +1,16 @@
+Index: file-test.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Prueba test\nTest1\nTest2\nTest3\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/file-test.txt b/file-test.txt
+--- a/file-test.txt	(revision a9ab563b36b71d484268d86770b95f93de2ec89b)
++++ b/file-test.txt	(date 1715731763080)
+@@ -1,4 +1,4 @@
+ Prueba test
+ Test1
+-Test2
++Test2Test2Test3
+ Test3
