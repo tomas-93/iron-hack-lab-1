@@ -36,3 +36,7 @@
   ![1](screen-test2/3pr2.png)
 
 ## 3. Solicitud de extracción y simulación de revisión de código
+![1](screen-test3/4test3.png)
+
+![1](screen-test3/2test3.png)
+
