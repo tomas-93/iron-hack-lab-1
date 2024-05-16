@@ -1,4 +1,7 @@
 Prueba test
 Test1
-Test2 test test test no pude hacer que marque conflicto :(
+¿Sabías que los pulpos tienen tres corazones? Dos de estos corazones bombean sangre a las branquias, donde se oxigena, y el tercero bombea sangre al resto del cuerpo. Este sistema circulatorio tan peculiar es una adaptación a su estilo de vida y su capacidad para cambiar de color rápidamente, ya que les proporciona un suministro de oxígeno eficiente para sus tejidos y células. ¡Los pulpos son realmente criaturas fascinantes!
+
+
 Test3
+La memoria RAM (Random Access Memory) de una computadora es volátil, lo que significa que pierde su contenido cuando se apaga la computadora o se pierde la alimentación eléctrica. Sin embargo, incluso cuando la computadora está apagada, la memoria RAM sigue recibiendo una pequeña cantidad de energía a través de una batería en la placa base. Esta energía se utiliza para mantener la configuración básica del sistema (BIOS/UEFI) y la fecha y hora del sistema. Esta pequeña batería es conocida comúnmente como la "pila CMOS" o "pila del BIOS", y su vida útil suele ser de varios años. Si alguna vez has tenido que reajustar la hora en tu computadora después de un largo periodo de apagado, es posible que sea el momento de reemplazar esta pila.
